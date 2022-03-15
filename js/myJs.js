@@ -5,11 +5,11 @@ const textConfig = {
     text4: "Hong trả lời mà thoát ga là pùn lắm ó",
     text5: "Cóa nha",
     text6: "Hok hề",
-    text7: "Xao mà xì trét z ?????",
+    text7: "Xao mà hong xì trét hay z ?????",
     text8: "Gửi cho tớ <3",
-    text9: "Vì học á",
-    text10: "Tớ biết mà. Tội gkê",
-    text11: "Z thì hãy vào trang này típ nka",
+    text9: "Z ngủ i",
+    text10: "À hoi khoan ngủ",
+    text11: "Ấn dô đây để xì trét hơn nka",
     text12: "Okii lunn <3",
   };
   
